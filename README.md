@@ -29,7 +29,10 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-![Dashboard Screenshot](Screenshot (63).png)
+## 🖼️ Screenshot
+
+![Dashboard Screenshot](Screenshot%20(63).png)
+
 
 ## 📁 File Structure
 
