@@ -1,6 +1,6 @@
 # Vahan Vehicle Registration Insights Dashboard 🚗📊
 
-An interactive dashboard to explore vehicle registration trends in India using data from the [Vahan Dashboard](https://vahan.parivahan.gov.in/).
+An interactive dashboard to explore vehicle registration trends in India using data from the [Vahan Dashboard]([https://vahan.parivahan.gov.in/](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml)).
 
 ## 🔍 Features
 
@@ -47,7 +47,7 @@ streamlit run app.py
 
 ## 📊 Data Source
 
-- [VAHAN Dashboard](https://vahan.parivahan.gov.in/)
+- [VAHAN Dashboard]([https://vahan.parivahan.gov.in/](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml))
 
 ## 📜 License
 
